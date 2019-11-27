@@ -11,6 +11,22 @@
 		AE7F79EA238DBF7700AEAAAB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE7F79E9238DBF7700AEAAAB /* ViewController.swift */; };
 		AE7F79ED238DBF7700AEAAAB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE7F79EB238DBF7700AEAAAB /* Main.storyboard */; };
 		AE7F79EF238DBF7900AEAAAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE7F79EE238DBF7900AEAAAB /* Assets.xcassets */; };
+		AE7F7A09238DC01300AEAAAB /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = AE7F7A03238DC01300AEAAAB /* GameScene.sks */; };
+		AE7F7A0A238DC01300AEAAAB /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE7F7A04238DC01300AEAAAB /* GameScene.swift */; };
+		AE7F7A0B238DC01300AEAAAB /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE7F7A05238DC01300AEAAAB /* GameViewController.swift */; };
+		AE7F7A0D238DC01300AEAAAB /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = AE7F7A07238DC01300AEAAAB /* Actions.sks */; };
+		AE7F7A10238DC03000AEAAAB /* SpriteKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE7F7A0F238DC03000AEAAAB /* SpriteKit.framework */; };
+		AE7F7A14238DC03900AEAAAB /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE7F7A11238DC03900AEAAAB /* GameKit.framework */; };
+		AE7F7A15238DC03900AEAAAB /* GameController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE7F7A12238DC03900AEAAAB /* GameController.framework */; };
+		AE7F7A16238DC03900AEAAAB /* GameplayKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE7F7A13238DC03900AEAAAB /* GameplayKit.framework */; };
+		AE7F7A1F238DC1C100AEAAAB /* Male.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AE7F7A1B238DC1C100AEAAAB /* Male.jpeg */; };
+		AE7F7A20238DC1C100AEAAAB /* SuperGuy.png in Resources */ = {isa = PBXBuildFile; fileRef = AE7F7A1C238DC1C100AEAAAB /* SuperGuy.png */; };
+		AE7F7A21238DC1C100AEAAAB /* BadGuy.png in Resources */ = {isa = PBXBuildFile; fileRef = AE7F7A1D238DC1C100AEAAAB /* BadGuy.png */; };
+		AE7F7A22238DC1C100AEAAAB /* Female.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AE7F7A1E238DC1C100AEAAAB /* Female.jpeg */; };
+		AE7F7A24238DDC6F00AEAAAB /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE7F7A23238DDC6F00AEAAAB /* TableViewController.swift */; };
+		AE7F7A27238DECC200AEAAAB /* GetData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE7F7A25238DECC200AEAAAB /* GetData.swift */; };
+		AE7F7A28238DECC200AEAAAB /* MyDataTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE7F7A26238DECC200AEAAAB /* MyDataTableViewCell.swift */; };
+		AE7F7A2A238ED55100AEAAAB /* galaxy.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AE7F7A29238ED55100AEAAAB /* galaxy.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +36,22 @@
 		AE7F79EC238DBF7700AEAAAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AE7F79EE238DBF7900AEAAAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE7F79F0238DBF7900AEAAAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE7F7A03238DC01300AEAAAB /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		AE7F7A04238DC01300AEAAAB /* GameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		AE7F7A05238DC01300AEAAAB /* GameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		AE7F7A07238DC01300AEAAAB /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
+		AE7F7A0F238DC03000AEAAAB /* SpriteKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SpriteKit.framework; path = System/Library/Frameworks/SpriteKit.framework; sourceTree = SDKROOT; };
+		AE7F7A11238DC03900AEAAAB /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+		AE7F7A12238DC03900AEAAAB /* GameController.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameController.framework; path = System/Library/Frameworks/GameController.framework; sourceTree = SDKROOT; };
+		AE7F7A13238DC03900AEAAAB /* GameplayKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameplayKit.framework; path = System/Library/Frameworks/GameplayKit.framework; sourceTree = SDKROOT; };
+		AE7F7A1B238DC1C100AEAAAB /* Male.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Male.jpeg; sourceTree = "<group>"; };
+		AE7F7A1C238DC1C100AEAAAB /* SuperGuy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SuperGuy.png; sourceTree = "<group>"; };
+		AE7F7A1D238DC1C100AEAAAB /* BadGuy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BadGuy.png; sourceTree = "<group>"; };
+		AE7F7A1E238DC1C100AEAAAB /* Female.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Female.jpeg; sourceTree = "<group>"; };
+		AE7F7A23238DDC6F00AEAAAB /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		AE7F7A25238DECC200AEAAAB /* GetData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetData.swift; sourceTree = "<group>"; };
+		AE7F7A26238DECC200AEAAAB /* MyDataTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyDataTableViewCell.swift; sourceTree = "<group>"; };
+		AE7F7A29238ED55100AEAAAB /* galaxy.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = galaxy.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -27,6 +59,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE7F7A14238DC03900AEAAAB /* GameKit.framework in Frameworks */,
+				AE7F7A15238DC03900AEAAAB /* GameController.framework in Frameworks */,
+				AE7F7A16238DC03900AEAAAB /* GameplayKit.framework in Frameworks */,
+				AE7F7A10238DC03000AEAAAB /* SpriteKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -38,6 +74,7 @@
 			children = (
 				AE7F79E6238DBF7700AEAAAB /* Assignment2 */,
 				AE7F79E5238DBF7700AEAAAB /* Products */,
+				AE7F7A0E238DC02F00AEAAAB /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -52,13 +89,68 @@
 		AE7F79E6238DBF7700AEAAAB /* Assignment2 */ = {
 			isa = PBXGroup;
 			children = (
-				AE7F79E7238DBF7700AEAAAB /* AppDelegate.swift */,
-				AE7F79E9238DBF7700AEAAAB /* ViewController.swift */,
-				AE7F79EB238DBF7700AEAAAB /* Main.storyboard */,
+				AE7F7A1A238DC15C00AEAAAB /* Classes */,
+				AE7F7A19238DC15000AEAAAB /* Storyboard */,
+				AE7F7A18238DC14A00AEAAAB /* Images */,
+				AE7F7A17238DC14200AEAAAB /* ViewController */,
 				AE7F79EE238DBF7900AEAAAB /* Assets.xcassets */,
 				AE7F79F0238DBF7900AEAAAB /* Info.plist */,
 			);
 			path = Assignment2;
+			sourceTree = "<group>";
+		};
+		AE7F7A0E238DC02F00AEAAAB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AE7F7A12238DC03900AEAAAB /* GameController.framework */,
+				AE7F7A11238DC03900AEAAAB /* GameKit.framework */,
+				AE7F7A13238DC03900AEAAAB /* GameplayKit.framework */,
+				AE7F7A0F238DC03000AEAAAB /* SpriteKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		AE7F7A17238DC14200AEAAAB /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				AE7F7A05238DC01300AEAAAB /* GameViewController.swift */,
+				AE7F79E9238DBF7700AEAAAB /* ViewController.swift */,
+				AE7F7A23238DDC6F00AEAAAB /* TableViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		AE7F7A18238DC14A00AEAAAB /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				AE7F7A29238ED55100AEAAAB /* galaxy.jpeg */,
+				AE7F7A1D238DC1C100AEAAAB /* BadGuy.png */,
+				AE7F7A1E238DC1C100AEAAAB /* Female.jpeg */,
+				AE7F7A1B238DC1C100AEAAAB /* Male.jpeg */,
+				AE7F7A1C238DC1C100AEAAAB /* SuperGuy.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		AE7F7A19238DC15000AEAAAB /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				AE7F79EB238DBF7700AEAAAB /* Main.storyboard */,
+			);
+			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		AE7F7A1A238DC15C00AEAAAB /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				AE7F7A25238DECC200AEAAAB /* GetData.swift */,
+				AE7F7A26238DECC200AEAAAB /* MyDataTableViewCell.swift */,
+				AE7F7A07238DC01300AEAAAB /* Actions.sks */,
+				AE7F7A04238DC01300AEAAAB /* GameScene.swift */,
+				AE7F79E7238DBF7700AEAAAB /* AppDelegate.swift */,
+				AE7F7A03238DC01300AEAAAB /* GameScene.sks */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +211,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE7F7A09238DC01300AEAAAB /* GameScene.sks in Resources */,
+				AE7F7A0D238DC01300AEAAAB /* Actions.sks in Resources */,
+				AE7F7A22238DC1C100AEAAAB /* Female.jpeg in Resources */,
 				AE7F79EF238DBF7900AEAAAB /* Assets.xcassets in Resources */,
+				AE7F7A21238DC1C100AEAAAB /* BadGuy.png in Resources */,
+				AE7F7A20238DC1C100AEAAAB /* SuperGuy.png in Resources */,
+				AE7F7A2A238ED55100AEAAAB /* galaxy.jpeg in Resources */,
+				AE7F7A1F238DC1C100AEAAAB /* Male.jpeg in Resources */,
 				AE7F79ED238DBF7700AEAAAB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -131,7 +230,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE7F7A0B238DC01300AEAAAB /* GameViewController.swift in Sources */,
+				AE7F7A0A238DC01300AEAAAB /* GameScene.swift in Sources */,
+				AE7F7A27238DECC200AEAAAB /* GetData.swift in Sources */,
+				AE7F7A28238DECC200AEAAAB /* MyDataTableViewCell.swift in Sources */,
 				AE7F79EA238DBF7700AEAAAB /* ViewController.swift in Sources */,
+				AE7F7A24238DDC6F00AEAAAB /* TableViewController.swift in Sources */,
 				AE7F79E8238DBF7700AEAAAB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
